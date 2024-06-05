@@ -11,7 +11,7 @@
   - Training the Random Forest model.
   - Evaluating the model performance using accuracy score and classification report.
 
-### bcancer_model_v2.ipynb
+### bcancer_model_v2.ipynb in the branchv2
 
 - **Description**: This Jupyter notebook contains the implementation of a Decision Tree model for predicting breast cancer.
 - **Steps Covered**:
